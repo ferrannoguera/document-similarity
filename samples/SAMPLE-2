@@ -1,0 +1,23 @@
+document	Jsim	hash0	hash1	hash2	hash3	hash4	hash5	hash6	hash7	hash8	hash9	hash10	hash11	hash12	hash13	hash14	hash15	hash16	hash17	hash18	hash19	hash20	hash21	hash22	hash23	hash24	hash25	hash26	hash27	hash28	hash29	hash30	hash31	hash32	hash33	hash34	hash35	hash36	hash37	hash38	hash39	hash40	hash41	hash42	hash43	hash44	hash45	hash46	hash47	hash48	hash49	
+lore	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	
+lorechi	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	
+test0.txt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+hp1.txt	0	22	20	23	23	22	17	25	19	25	25	24	17	19	27	24	25	20	22	22	15	19	25	29	27	25	20	28	25	16	28	26	16	25	26	22	31	25	24	26	24	23	20	13	24	26	23	25	24	18	31	
+hp2.txt	0	19	27	33	20	15	26	25	26	21	29	21	23	19	27	26	34	29	28	20	22	19	23	30	27	22	31	20	19	23	28	24	29	27	25	30	19	14	24	28	27	24	20	23	22	22	23	24	24	27	29	
+test1.txt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1	
+test3.txt	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+test3.txt	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+MINSIGNATURA	305
+MAXSIGNATURA	91599
+maximo similitudes	1048575
+
+Por Jaccard: 
+Document lorem	shingles totales 305 jac 1
+Document lore	shingles totales 405 jac 0
+Document lorechi	shingles totales 380 jac 0
+Document test0.txt	shingles totales 305 jac 0
+Document hp1.txt	shingles totales 78325 jac 0
+Document hp2.txt	shingles totales 91599 jac 0
+Document test1.txt	shingles totales 305 jac 0
+Document test3.txt	shingles totales 305 jac 0
+Document test3.txt	shingles totales 305 jac 0

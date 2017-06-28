@@ -1,0 +1,46 @@
+document	Jsim	hash0	hash1	hash2	hash3	hash4	hash5	hash6	hash7	hash8	hash9	hash10	hash11	hash12	hash13	hash14	hash15	hash16	hash17	hash18	hash19	hash20	hash21	hash22	hash23	hash24	hash25	hash26	hash27	hash28	hash29	hash30	hash31	hash32	hash33	hash34	hash35	hash36	hash37	hash38	hash39	hash40	hash41	hash42	hash43	hash44	hash45	hash46	hash47	hash48	hash49	
+test1.txt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+test2.txt	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+test3.txt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+test4.txt	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+test5.txt	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+test6.txt	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+test7.txt	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	1	0	0	0	0	1	0	0	
+test8.txt	0.00160514	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+test9.txt	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	
+test10.txt	0	0	0	0	1	0	0	0	1	0	0	0	1	1	0	1	1	0	0	0	0	0	0	1	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	
+test11.txt	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	
+test12.txt	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+test13.txt	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+test14.txt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+test15.txt	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	1	0	1	0	0	0	0	1	0	0	0	0	
+test16.txt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+test17.txt	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	0	0	0	1	0	0	0	1	0	0	0	0	1	
+test18.txt	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+test19.txt	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	
+MINSIGNATURA	312
+MAXSIGNATURA	312
+maximo similitudes	1048575
+
+Por Jaccard: 
+Document test0.txt	shingles totales 312 jac 1
+Document test1.txt	shingles totales 312 jac 0
+Document test2.txt	shingles totales 312 jac 0
+Document test3.txt	shingles totales 312 jac 0
+Document test4.txt	shingles totales 312 jac 0
+Document test5.txt	shingles totales 312 jac 0
+Document test6.txt	shingles totales 312 jac 0
+Document test7.txt	shingles totales 312 jac 0
+Document test8.txt	shingles totales 312 jac 0.00160514
+Document test9.txt	shingles totales 312 jac 0
+Document test10.txt	shingles totales 312 jac 0
+Document test11.txt	shingles totales 312 jac 0
+Document test12.txt	shingles totales 312 jac 0
+Document test13.txt	shingles totales 312 jac 0
+Document test14.txt	shingles totales 312 jac 0
+Document test15.txt	shingles totales 312 jac 0
+Document test16.txt	shingles totales 312 jac 0
+Document test17.txt	shingles totales 312 jac 0
+Document test18.txt	shingles totales 312 jac 0
+Document test19.txt	shingles totales 312 jac 0
+time:	58.9158
